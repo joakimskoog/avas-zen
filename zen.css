@@ -7,3 +7,8 @@ aza-home-news-feed {
 aza-home-latest-feed {
   display: none !important;
 }
+
+/* Hide disclaimer about "Om att investera i värdepapper" & "Om investerings­rekommendationer" */
+aza-disclaimer {
+  display: none !important;
+}
