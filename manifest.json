@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Avas Zen",
+  "description": "A lightweight Chrome extension built with vanilla JavaScript and CSS.",
+  "version": "0.1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.avanza.se/*"
+      ],
+      "css": ["zen.css"],
+      "run_at": "document_start"
+    }
+  ]
+}
