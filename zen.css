@@ -1,3 +1,5 @@
+
+
 /* Hide current market data in header. */
 header aza-header {
   display: none !important;
@@ -10,6 +12,11 @@ header aza-menu {
 
 /* Hide settings cog on front page. */
 aza-home-settings {
+  display: none !important;
+}
+
+/* Hide things such as 'Just nu'. */
+aza-home-greeting {
   display: none !important;
 }
 
