@@ -1,3 +1,8 @@
+/* Hide settings cog on front page */
+aza-home-settings {
+  display: none !important;
+}
+
 /* Hide "Nyheter om dina innehav" */
 aza-home-news-feed {
   display: none !important;
