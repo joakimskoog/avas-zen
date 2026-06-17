@@ -2,3 +2,8 @@
 aza-home-news-feed {
   display: none !important;
 }
+
+/* Hide "Senaste veckan" */
+aza-home-latest-feed {
+  display: none !important;
+}
