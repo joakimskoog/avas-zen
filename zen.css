@@ -1,0 +1,4 @@
+/* Hide "Nyheter om dina innehav" */
+aza-home-news-feed {
+  display: none !important;
+}
