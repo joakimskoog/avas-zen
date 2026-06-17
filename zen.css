@@ -1,24 +1,34 @@
-/* Hide settings cog on front page */
+/* Hide current market data in header. */
+header aza-header {
+  display: none !important;
+}
+
+/* Hide menu & Orders & Search in header. */
+header aza-menu {
+  display: none !important;
+}
+
+/* Hide settings cog on front page. */
 aza-home-settings {
   display: none !important;
 }
 
-/* Hide "Nyheter om dina innehav" */
+/* Hide "Nyheter om dina innehav". */
 aza-home-news-feed {
   display: none !important;
 }
 
-/* Hide "Senaste veckan" */
+/* Hide "Senaste veckan". */
 aza-home-latest-feed {
   display: none !important;
 }
 
-/* Hide disclaimer about "Om att investera i värdepapper" & "Om investerings­rekommendationer" */
+/* Hide disclaimer about "Om att investera i värdepapper" & "Om investerings­rekommendationer". */
 aza-disclaimer {
   display: none !important;
 }
 
-/* Hide footer with links to Avanza's social media and other useless stuff */
+/* Hide footer with links to Avanza's social media and other useless stuff. */
 aza-footer {
   display: none !important;
 }
