@@ -12,3 +12,8 @@ aza-home-latest-feed {
 aza-disclaimer {
   display: none !important;
 }
+
+/* Hide footer with links to Avanza's social media and other useless stuff */
+aza-footer {
+  display: none !important;
+}
