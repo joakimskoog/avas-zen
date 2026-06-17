@@ -37,3 +37,11 @@ aza-disclaimer {
 aza-footer {
   display: none !important;
 }
+
+/* All the things above are put in the main content on smaller screens so hide it. */
+@media screen and (max-width: 992px) {
+  
+  .content-main {
+    display: none !important;
+  }
+}
