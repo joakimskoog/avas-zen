@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Avas Zen is a browser extension that removes visual noise and creates a calm, distraction-free experience on <a href="https://www.avanza.se/">Avanza</a>.
+Ava's Zen is a browser extension that removes visual noise and creates a calm, distraction-free experience on <a href="https://www.avanza.se/">Avanza</a>.
 </p>
 
 > **Disclaimer:** Ava's Zen is an independent third-party browser extension and is not developed by, approved by, supported by, or affiliated with Avanza Bank AB.
