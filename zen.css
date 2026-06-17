@@ -13,6 +13,11 @@ aza-home-settings {
   display: none !important;
 }
 
+/* Hide secondary content to the right such as "Aktuellt från oss", "Börsen idag" etc. */
+.content-secondary {
+  display: none !important;
+}
+
 /* Hide "Nyheter om dina innehav". */
 aza-home-news-feed {
   display: none !important;
